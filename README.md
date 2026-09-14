@@ -10,7 +10,7 @@
 | **Módulo formativo** | Programación de Sistemas de Información |
 | **Unidad didáctica** | Desarrollo Web Integrado |
 | **Estudiante** | Juan José Condori Bolívar |
-| **Semestre** | V |
+| **Semestre** | IV |
 | **Año académico** | 2026 |
 
 ---
@@ -294,8 +294,20 @@ Se verificó en phpMyAdmin que las 5 tablas del modelo (`clientes`, `empleados`,
 
 ### 7.4 Modelos con sus relaciones Eloquent
 
-<!-- INSERTAR CAPTURA: archivos de los 5 modelos en app/Models dentro de VS Code -->
-![Modelos Eloquent](capturas/modelos-eloquent.png)
+**Modelo `Cliente`**
+![Modelo Cliente](capturas/modelo-cliente.png)
+
+**Modelo `Empleado`**
+![Modelo Empleado](capturas/modelo-empleado.png)
+
+**Modelo `Destino`**
+![Modelo Destino](capturas/modelo-destino.png)
+
+**Modelo `Paquete`**
+![Modelo Paquete](capturas/modelo-paquete.png)
+
+**Modelo `Reserva`**
+![Modelo Reserva](capturas/modelo-reserva.png)
 
 ---
 
